@@ -1,4 +1,4 @@
-# theBlockProblem
+# theBlockProblem - Recursion
 You must write a recursive method, that will count the
 number of ways to throw bricks. Consider a construction site worker who manually
 unload bricks from the truck. The worker has three options depending on his fatigue level
